@@ -1,4 +1,4 @@
-# pbo_c1
+# PBO C1
 Matakuliah PBO
 #
 Dosen Pengambu : Budi Santoso
